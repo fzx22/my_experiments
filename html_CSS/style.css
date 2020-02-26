@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 250;
+    display: block;
+    flex-direction: row;
+    background: black;
+    height: 300px;
+}
+.container > div {
+    height: 300px;
+    width: 100px;
+    float: right;
+}
+.a {
+    background: red;
+}
+.b {
+    background: rgba(0, 255, 0, 0.7);
+    position: absolute;
+}
+.c {
+    background: blue;
+}
