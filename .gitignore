@@ -1,1 +1,4 @@
 Federatedlearn-master-3/
+ll_env/
+__pycache__/
+*.sqlite3
